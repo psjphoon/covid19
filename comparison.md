@@ -1,7 +1,7 @@
 # Comparison of Covid-19 between Malaysia and Other Countries
 
 
-### Comparison to Key Countries
+## Comparison to Key Countries
 
 ![Global Total and Daily Covid-19 Cases](https://github.com/psjphoon/covid19/blob/master/image/globalTD.png)
 
@@ -10,7 +10,7 @@
 
 ![Global Covid-19 Cases Trajectory](https://github.com/psjphoon/covid19/blob/master/image/globalTraj.png)
 
-### Comparison to ASEAN countries with over 100 cases
+## Comparison to ASEAN countries with over 100 cases
 
 ![Asean Total and Daily Covid-19 Cases](https://github.com/psjphoon/covid19/blob/master/image/aseanTD.png)
 
@@ -19,7 +19,7 @@
 
 ![Asean Covid-19 Cases Trajectory](https://github.com/psjphoon/covid19/blob/master/image/aseanTraj.png)
 
-### Comparison to Singapore and Thailand
+## Comparison to Singapore and Thailand
 
 ![Neighbour Total and Daily Covid-19 Cases](https://github.com/psjphoon/covid19/blob/master/image/neighbourTD.png)
 
