@@ -3,4 +3,4 @@
 ###Malaysia###
 
 ![Malaysia Total and Daily Covid-19 Cases]
-(image/malaysiaTD.png)
+(https://github.com/psjphoon/covid19/blob/master/image/malaysiaTD.png)
