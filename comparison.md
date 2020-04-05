@@ -10,9 +10,10 @@ Three types of graph are plotted:
 ## Compare to Global Key Countries
 China and South Korea are selected as they have sucessfully surpressed the virus from spreading, while Italy is selected because it has almost the same outbreak time as Malaysia and US which is having the most cases currently.
 
+**Before Normalisation**
 ![Global Total and Daily Covid-19 Cases](https://github.com/psjphoon/covid19/blob/master/image/globalTD.png)
 
-**Normalised**
+**After Normalisation**
 ![Normalized Global Total and Daily Covid-19 Cases](https://github.com/psjphoon/covid19/blob/master/image/globalTDN.png)
 
 The cases of US, China and Italy have outnumbered the cases in Malaysia and South Korea. Thus, the visualisation of Malaysia and South Korea cases are not clear and it is better to be compared after normalisation.
@@ -31,9 +32,10 @@ From the plot above, all the countries are having the same trajectory line in th
 
 Singapore and Thailand are selected as there are frequenct travellers in land borders connecting to Malaysia.
 
+**Before Normalisation**
 ![Neighbour Total and Daily Covid-19 Cases](https://github.com/psjphoon/covid19/blob/master/image/neighbourTD.png)
 
-**Normalised**
+**After Normalisation**
 ![Normalized Neighbour Total and Daily Covid-19 Cases](https://github.com/psjphoon/covid19/blob/master/image/neighbourTDN.png)
 
 Malaysia is leading and followed by Thailand and Singapore. In normalised graph, these countries are having exponentially rise in the mid of March and they are having almost the same trend lately to seek turning points as daily new cases are slowing down from increasing. The slowing down trend could be seen clearly in the trajectory plot below. They are bending away from the straight upward slope line and seek to drop in the near future after effective movement restriction control.
