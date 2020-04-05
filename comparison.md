@@ -7,7 +7,7 @@ Three types of graph are plotted:
 2. **Daily new Covid-19 against time** and normalized.
 3. **New confirmed cases in the past week against total confirmed cases** in logarithmic scale to represent the trajectory of Covid-19 cases in respective country. The exponential growth of total confirmed cases agaisnt time is represented as a straight upward lines in this way. Most of the countries are following the same trajectory in the beginning of the outbreak in each country and bend downwards when they have successfully contained the virus. More explanation [here.](https://www.youtube.com/watch?v=54XLXg4fYsc)
 
-## Comparison to Global Key Countries
+## Compare to Global Key Countries
 China and South Korea are selected as they have sucessfully surpressed the virus from spreading, while Italy is selected because it has almost the same outbreak time as Malaysia and US which is having the most cases currently.
 
 ![Global Total and Daily Covid-19 Cases](https://github.com/psjphoon/covid19/blob/master/image/globalTD.png)
@@ -27,7 +27,7 @@ Besides, it is interesting to mention that South Korea has successfully containe
 
 From the plot above, all the countries are having the same trajectory line in the beginning. After success in China and South Korea, their trajectory is heading downwards with gradually decreasing daily new confirmed cases while US is still heading upward as a straight slope line. Italy and Malaysia have seen to be moving away from the trend but still not dropping.
 
-## Comparison to Neighbouring Countries
+## Compare to Neighbour Countries
 
 Singapore and Thailand are selected which have frequenct travellers in land borders connected to Malaysia.
 
