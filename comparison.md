@@ -1,4 +1,4 @@
-# Comparison of Covid-19 between Malaysia and Other Countries
+# Comparison of Covid-19 Cases between Malaysia and Other Countries
 
 Source: Johns Hopkins CSSE [Data Repository](https://github.com/CSSEGISandData/COVID-19)
 
