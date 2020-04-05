@@ -21,7 +21,9 @@ After nomalisation, it can be noticed that the trajectory of China and South Kor
 
 Besides, it is interesting to mention that South Korea has successfully contained the virus without major movement restriction control on citizens. This is due to their capability to carry out around 150000 tests per day while Malaysia is around 2000 per day. The earlier the patients are tested positively, the faster the authority could do contact tracing in order to contain the virus effectively. A separated analysis about comparison of testing capability and how it affects the spreading of virus between Malaysia and Korea will be done.
 
-![Global Covid-19 Cases Trajectory](https://github.com/psjphoon/covid19/blob/master/image/globalTraj.png)
+<p align="center">
+  <img src="https://github.com/psjphoon/covid19/blob/master/image/globalTraj.png">
+</p>
 
 From the plot above, all the countries are having the same trajectory line in the beginning. After success in China and South Korea, their trajectory is heading downwards with gradually decreasing daily new confirmed cases while US is still heading upward as a straight slope line. Italy and Malaysia have seen to be moving away from the trend but still not dropping.
 
@@ -32,7 +34,9 @@ From the plot above, all the countries are having the same trajectory line in th
 **Normalised**
 ![Normalized Asean Total and Daily Covid-19 Cases](https://github.com/psjphoon/covid19/blob/master/image/aseanTDN.png)
 
-![Asean Covid-19 Cases Trajectory](https://github.com/psjphoon/covid19/blob/master/image/aseanTraj.png)
+<p align="center">
+  <img src="https://github.com/psjphoon/covid19/blob/master/image/aseanTraj.png">
+</p>
 
 ## Comparison to Singapore and Thailand
 
@@ -41,5 +45,6 @@ From the plot above, all the countries are having the same trajectory line in th
 **Normalised**
 ![Normalized Neighbour Total and Daily Covid-19 Cases](https://github.com/psjphoon/covid19/blob/master/image/neighbourTDN.png)
 
-![Neighbour Covid-19 Cases Trajectory](https://github.com/psjphoon/covid19/blob/master/image/neighbourTraj.png)
-
+<p align="center">
+  <img src="https://github.com/psjphoon/covid19/blob/master/image/neighbourTraj.png">
+</p>
