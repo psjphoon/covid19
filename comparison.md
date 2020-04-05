@@ -29,7 +29,7 @@ From the plot above, all the countries are having the same trajectory line in th
 
 ## Compare to Neighbour Countries
 
-Singapore and Thailand are selected which have frequenct travellers in land borders connected to Malaysia.
+Singapore and Thailand are selected as there are frequenct travellers in land borders connecting to Malaysia.
 
 ![Neighbour Total and Daily Covid-19 Cases](https://github.com/psjphoon/covid19/blob/master/image/neighbourTD.png)
 
